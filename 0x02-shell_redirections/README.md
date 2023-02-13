@@ -1,1 +1,1 @@
-Shell inpu and output practice for week 4.
+'Practice samples on inout and output '
